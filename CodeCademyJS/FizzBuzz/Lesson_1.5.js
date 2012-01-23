@@ -1,6 +1,6 @@
 // Add an else statement in case the number is divisible by 5. 
 
-// for the numbers 1 through 20,
+// for the numbers 1 through 100,
 for (i=1; i<=100; i++) { 
   
   // if the number is divisible by 3, write "Fizz"
