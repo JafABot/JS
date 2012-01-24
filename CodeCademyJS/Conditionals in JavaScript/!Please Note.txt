@@ -1,0 +1,2 @@
+These are relatively straight forward, if you're stuck read the question again 
+as most of this section is just click run to pass or fill in the missing spaces.
